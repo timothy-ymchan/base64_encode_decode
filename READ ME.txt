@@ -1,5 +1,0 @@
-Syntax:
-
-base64 encode <input_file> <output_file>
-
-base64 decode <input_file> <output_file>
